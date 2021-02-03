@@ -50,4 +50,5 @@ fn main() {
     traits::traits();
     ownership::ownership();
     ownership::borrowing();
+    odds_and_ends::odds_and_ends();
 }
